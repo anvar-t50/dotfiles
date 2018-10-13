@@ -1,2 +1,2 @@
 # dotfiles
-My personal configuration for arch linux.
+My personal conf files for my GNU/Linux systems.
